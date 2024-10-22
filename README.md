@@ -19,4 +19,4 @@
    node -v
    npm -v
 ```
-```npm install discord.js @google-cloud/text-to-speech @discordjs/voice ffmpeg-static
+npm install discord.js @google-cloud/text-to-speech @discordjs/voice ffmpeg-static
