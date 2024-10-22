@@ -18,3 +18,6 @@
    ```bash
    node -v
    npm -v
+```
+```bash
+   npm install discord.js @google-cloud/text-to-speech @discordjs/voice ffmpeg-static
